@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse shewing that the exportation of wooll is destructive to this kingdom wherein is also shewed the absolute necessity of promoting our woollen manufacture and moderating the importation of some commodities and prohibiting others, with some easie expedients tending thereunto / by Thomas Manly.</title>
+            <author>Manley, Thomas, 1628-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51779</idno>
+            <idno type="STC">Wing M444</idno>
+            <idno type="STC">ESTC R31165</idno>
+            <idno type="EEBO-CITATION">11781383</idno>
+            <idno type="OCLC">ocm 11781383</idno>
+            <idno type="VID">49075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49075)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1487:10 or 2475:11b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse shewing that the exportation of wooll is destructive to this kingdom wherein is also shewed the absolute necessity of promoting our woollen manufacture and moderating the importation of some commodities and prohibiting others, with some easie expedients tending thereunto / by Thomas Manly.</title>
+                  <author>Manley, Thomas, 1628-1690.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Crouch,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as part of Wing C4444B on reel 2475.</note>
+                  <note>Reproduction of originals in the Harvard University Library and the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Great Britain.</term>
+               <term>Woolen and worsted manufacture --  Great Britain.</term>
+               <term>Great Britain --  Commercial policy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49075:1"/>
+            <pb facs="tcp:49075:1" rendition="simple:additions"/>
+            <p>A DISCOURSE SHEWING That the Exportation of Wooll is de<g ref="char:EOLhyphen"/>ſtructive to this KINGDOM.</p>
+            <p>WHEREIN Is alſo Shewed the abſolute neceſſity of promoting our Woollen Manufacture, and moderating the Importation of ſome Commodities, and Prohibiting others.</p>
+            <p>With ſome eaſie Expedients tending thereunto.</p>
+            <p>By <hi>Thomas Manly</hi> Eſquire.</p>
+            <p>Licenſed <hi>March</hi> 8. 1676. <hi>Ro. L' Eſtrange.</hi>
+            </p>
+            <p>LONDON. Printed for <hi>Samuel Crouch</hi> 1677.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:49075:2" rendition="simple:additions"/>
+            <pb facs="tcp:49075:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>ALtho the Opinion debated in the following Papers be frequently found among worthy men, and ſuch who truly love their Country, yet I ſhrewdly ſuſpect 'tis of Forreign Origi<g ref="char:EOLhyphen"/>nal cunningly introduc'd and trim'd up like a Native, the eaſier in ſuch a diſ<g ref="char:EOLhyphen"/>guiſe, to cajole men of no ordinary cir<g ref="char:EOLhyphen"/>cumſpection, and who in truth aiming onely at the common welfare of their Country, would abhor (whatever o<g ref="char:EOLhyphen"/>ther men may do) to betray it to the in<g ref="char:EOLhyphen"/>tereſt of a ſtranger.</p>
+            <p>That 'tis of Forreign production may modeſtly be preſum'd from the neceſsi<g ref="char:EOLhyphen"/>ty the Forreigner hath for our wooll to mix with theirs, and without which they can ſcarce make a tollerable piece of Drapery, from their ſubtil contrivan<g ref="char:EOLhyphen"/>ces to purloyn it from us, even at any
+<pb facs="tcp:49075:3"/>expence and hazard, and from the ſu<g ref="char:EOLhyphen"/>perlative advantages they may gain by Commerce, and employing their people if once our Laws were repeal'd, which render it hazardous, ſcarce and charge<g ref="char:EOLhyphen"/>able to them: ſo that you ſee what ever gaudy diſguizes for our advantage, for<g ref="char:EOLhyphen"/>ſooth, the Adjutators have clap't on the deſign, do but ſnatch off the Vizard, and preſently a Forreigner appears in Maſquerade: who (kind man!) deſign<g ref="char:EOLhyphen"/>ing our good equal to the reſt of his Neighbours, and fearing other opera<g ref="char:EOLhyphen"/>tions may work too ſlowly, preſcribes us this infallible Doſe; —<hi>from which good Lord deliver us.</hi>
+            </p>
+            <p>
+               <hi>The reſt I leave to be diſcharg'd by the following Papers, which aiming onely at the honour and welfare of my King and Country, may be, I hope, as candidly accepted.</hi>
+            </p>
+            <closer>
+               <signed>J. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49075:3"/>
+            <head>Exportation of Wooll Deſtructive to this Kingdom.</head>
+            <p>HAving lately in diſcourſe with ſome perſons of Quality, obſerved an Opinion favouring the repeal of the Laws now in force reſtraining the Exportation of Wooll, (a diſcourſe of harſh ſound to my old <hi>Engliſh</hi> underſtanding) I could not then refrain from offering ſuch Reaſons as then occur'd againſt a matter of ſuch pernicious conſequence, however the contrary may be underſtood by Gentlemen who truly love their Country; what through incogitancy, or want of time, I then omitted, I now in love to my Country, offer to conſideration.</p>
+            <p>I will, to proceed clearly, ſet down, in the firſt place, the rea<g ref="char:EOLhyphen"/>ſons alledg'd for Repealing thoſe Laws, ſo far as I can collect from the favourers of that Opinion, and then briefly give my reaſons to the contrary; modeſtly ſubmitting my ſelf to the Judgment of Reader.</p>
+            <q>
+               <list>
+                  <item n="1">1. <hi>Our ſtore of wooll</hi> (ſay they) <hi>is ſo great, that we have ſuf<g ref="char:EOLhyphen"/>ficient both for our ſelves and Neighbours.</hi>
+                  </item>
+                  <item n="2">2. <hi>Its free and unreſtrained Exportation will occaſion a great encreaſe in its price, which will ſuſtain our drooping Rents, and draw conſiderable ſums of mony from abroad, for ſo deſirable a Commodity.</hi>
+                  </item>
+                  <item n="3">3. <hi>That tho we uſe all care imaginable to prevent its Exportati<g ref="char:EOLhyphen"/>on, yet our Neighbours, by means of our own people, draw great quantities from us.</hi>
+                  </item>
+                  <item n="4">4. <hi>'Tis to ſmall purpoſe to keep our wooll at home, for that</hi> Ire<g ref="char:EOLhyphen"/>land <hi>ſupplies our Neighbours therewith to a great degree.</hi>
+                  </item>
+                  <item n="5">5. <hi>This prohibition of wooll is a new practice, unknown to us till within theſe twenty years, and yet before that time, both wooll and Drapery yielded the beſt Rates for above</hi> 60 <hi>years laſt paſt.</hi>
+                  </item>
+               </list>
+            </q>
+            <div n="1" type="answer">
+               <head>To the firſt <hi>I Anſwer.</hi>
+               </head>
+               <p n="1">1. That I conceive our yearly encreaſe of Wooll is now no greater than when the Rates were double, nay treble, to what
+<pb n="2" facs="tcp:49075:4"/>they now are; and if ſo, the fall and meanneſs of the price proceeds purely from the loſs of forreign Markets for our Drapery, and from our own forſaking the wear of it, and not from the quantity above what we had 30 or 40 years ago.</p>
+               <p n="2">2. 'Tis very manifeſt how the Rates of Wooll theſe laſt 15 or 16 years, have gradually faln from bad to worſe, and how as by degrees we have encreaſ'd in the wearing of Silk, Camlets, and frowſie <hi>French</hi> Druggets, and as our Neighbours, eſpecially the <hi>French,</hi> have enlarg'd their woollen Manufacture by means of our wooll, which they mix with theirs, juſt ſo have the Rates of this Commodity with us ſunk almoſt beyond belief.</p>
+               <p n="3">3. That ſeeing we have a multitude of people, who for want of employment, want bread, and that the price of Wooll here is ſo low as to tempt us to let out that commodity, which the wiſdom of this Trading Age hath hitherto ſecur'd under Public Prohibitions, as being the prime fund of our Trade and Navigation, and which is ſo neceſſary to our active Neighbours, that no Laws, how Penal ſoever, have yet totally debar'd them from it, what do we elſe by ſuch a deſign, but declare that hence<g ref="char:EOLhyphen"/>forth, being not able to manage that Manufacture, we abandon all thoughts of an advantagious commerce, neceſſitate our people to live on us, or dye at our doors, and ſurrender to our Neigh<g ref="char:EOLhyphen"/>bours that Manufacture for which we were once ſo notorious? is not this, at once, <hi>to caſt the Childrens bread to ſtrangers;</hi> and to remain for ever without hopes to maintain, after ſuch a derelicti<g ref="char:EOLhyphen"/>on, any Manufacture which our Neighbours may hav a mind to ſnatch from us?</p>
+               <p n="4">4. If our Neighbours could have Wooll as good to all intents and purpoſes, and as plentifull and cheap from other Countries, it might peradventure, be adviſable, how far we ought to keep ours at home; but the caſe being otherwaies, and they (our Ri<g ref="char:EOLhyphen"/>vals) being not able to carry on that Manufacture effectually with<g ref="char:EOLhyphen"/>out it, it ſeems a great miſtake and dangerous to ſpare it on any terms.</p>
+            </div>
+            <div n="2" type="answer">
+               <head>To the ſecond Reaſon; <q>
+                     <hi>That it will occaſion the Rates of wooll to riſe, and thereby ſuſtain our drooping Rents, &amp;c.</hi>
+                  </q> 
+                  <hi>I Anſwer.</hi>
+               </head>
+               <p n="1">1. The wear and uſe of Silk, Camlets, &amp;c. have ſo far ſup<g ref="char:EOLhyphen"/>planted that of Drapery in <hi>Europe,</hi> that we muſt never rationally
+<pb n="3" facs="tcp:49075:4"/>expect thoſe Rates for Wooll which were uſually given 30 of 40 years ago.</p>
+               <p n="2">2. If we find bad markets for Drapery now Wooll is cheap, 'tis very improbable our Neighbours will take ſo much Wooll from us as to raiſe the price thereof to that degree as may ſuſtain our falling Rents; for the dearer we fell them our Wooll the dearer they muſt ſell their Drapery, and conſequently ſell ſo much leſs; or elſe it will be our ſhame or ill fortune that they ſhall vent much Drapery made of dear Wooll, and we vent little or none, now wooll is cheap.</p>
+               <p n="3">3. The more Markets our Neighbours ſupply with Drapery, by means of our Wooll, the leſs Drapery we muſt Export; the reaſon is, becauſe there is a certain and determined quantity of Cloth conſum'd by the Trading world; whence it muſt neceſ<g ref="char:EOLhyphen"/>ſarily follow that ſo much wooll as they receive from us, ſo much leſs Drapery we our ſelves ſhall Export, and conſequently the price of wooll remain the ſame it was before thoſe Laws were repeal'd.</p>
+               <p n="4">4. Upon repealing thoſe Laws we may bid adue to the Expor<g ref="char:EOLhyphen"/>tation of Drapery; the reaſon is, becauſe our Neighbours live, work and Navigate cheaper than we; and having once our wooll in common, muſt neceſſarily underſell, and beat us out of Trade: it being a great miſtake to imagine that the Exportation of our wooll and Drapery may conſiſt together; and as great a miſtake to ſuppoſe that the pretended encreaſe of the Rates of wooll oc<g ref="char:EOLhyphen"/>caſioned by an allowance of its Exportation, may ballance the miſchiefs accrewing thereby; becauſe <hi>a pound of wooll Manufa<g ref="char:EOLhyphen"/>ctur'd and Exported, is of more worth to us by employing our people, than ten pound exported raw at double the preſent rate;</hi> unleſs, which is not reaſonable to imagine, we could introduce ſome other better employment for them.</p>
+               <p n="5">5. If our Neighbours tread on our heels in this Manufacture, begin to ſupply us with their Drapery at home, and to ſupplant us therewith abroad, having onely their own corſe wooll; which they mix with ours obtain'd at dear rates (by reaſon of ſecrecy and many chargeable contrivances alwaies attending a prohibited traf<g ref="char:EOLhyphen"/>fick) there is no doubt, when once the prohibition is remov'd, and they by that means plentifully ſupply'd therewith (which in an open and allowed commerce is alwaies cheapeſt) but that they
+<pb n="4" facs="tcp:49075:5"/>will ſoon beat us wholly out of that Trade, and by conſequence e're long out of all other Commerce and Navigation to boot.</p>
+               <p n="6">6. Every pound of our Wooll now worth five pence (and which makes about a yard of broad Cloth worth 8 or 9 <hi>s.</hi>) being Ex<g ref="char:EOLhyphen"/>ported, and mixt with our Neighbours coarſe Wooll, helps them to make 3 or 4 yards of Cloth, which probably hinders us of all that advantage, which by employing our people, would other<g ref="char:EOLhyphen"/>wayes accrew to us, beſides the benefit of Commerce and Navi<g ref="char:EOLhyphen"/>gation; which muſt decline as our Drapery leſſens, and as <hi>we lan<g ref="char:EOLhyphen"/>guiſh by ſending out our Treaſure to Import Apes and Peacocks: what the conſequence thereof may be, when the moſt formidable and daring Nation is viſibly ſeizing on Trade, and the Ocean, is obvious to every reaſonable man;</hi> and how His Majeſties Revenue may be ſupply'd, when our Manufactures are loſt, our Treaſure waſted, and Rents ſubdu'd, by our exceſs in Forreign Commodi<g ref="char:EOLhyphen"/>ties, is worthy of conſideration.</p>
+               <p n="7">7. The Exportation of our Wooll will be ſo farre from ſuſtain<g ref="char:EOLhyphen"/>ing our drooping Rents, that tho we may Export the whole year<g ref="char:EOLhyphen"/>ly growth thereof, yet I conceive it will not anſwer the value of our Drapery, which hitherto we have yearly Exported, and by conſe<g ref="char:EOLhyphen"/>quence, ſo much loſs muſt redound to us, as the wooll Exported may be of leſs value than our Drapery; without any conſiderati<g ref="char:EOLhyphen"/>on had to the want of employment for our people, or to the inſig<g ref="char:EOLhyphen"/>nificant Navigation which the freight of wooll will occaſion, com<g ref="char:EOLhyphen"/>par'd with that of Drapery; <hi>and how Politic it may be to leſſen the value of our Exits, which already are ſo trivial and ſo exceed<g ref="char:EOLhyphen"/>ingly Overballanc'd by importations to foment our luxury, I leave to the judgement of every man, who conſiders that 'tis the Exporta<g ref="char:EOLhyphen"/>tion of the Growth and Manufactures which deſerve the name of Trade, and makes a Nation rich.</hi>
+               </p>
+               <p n="8">8. But ſuppoſe that by repeal of the Laws the value of our Wooll ſhould riſe conſiderably (which for the reaſons already given is very improbable) whereby our Neighbours ſhould be enabled to manage that important Manufacture, which otherwiſe they could never effect, muſt it not neceſſarily follow that as they enlarge their Drapery ſo ours muſt leſſen, and gradually ſhrink to nothing, our Navigation decline for want of ſo ſtaple a Commo<g ref="char:EOLhyphen"/>dity wherewith to Traffic, our Treaſure yet more convey'd abroad to manage a wanton and Luxurious Commerce, multitudes of our
+<pb n="5" facs="tcp:49075:5"/>people who ſubſiſted by that Manufacture Expos'd to ruine, and as many in every Age, thereby becoming uſeleſs and poor, muſt become chargeable, and may become dangerous to the King<g ref="char:EOLhyphen"/>dom: all which muſt and will inevitably ſubdue our Rents to a de<g ref="char:EOLhyphen"/>gree farre beyond any relief or benefit we may reaſonably expect from any encreaſe of the price of wooll, occaſioned by the re<g ref="char:EOLhyphen"/>peal of our Lawes: hence an experienced Merchant, who in other Commodities was himſelf a great ſmugler, us'd to ſay, that the offence of exporting wooll was like the <hi>ſin againſt the Holy Ghoſt, not to be forgiven;</hi> can the injury then be leſs to the Common-Wealth if it go out by a Law?</p>
+               <p>The preſent Parliament hath had right ſentiments in this mat<g ref="char:EOLhyphen"/>ter, when (as by the Preamble of the Statute may appear) <hi>for the better ſetting on work the Inhabitants of this Realm, and to the in<g ref="char:EOLhyphen"/>tent that the full and beſt uſe and benefit of the principal native com<g ref="char:EOLhyphen"/>modities thereof, may come unto the Subjects of the ſame, and not unto the Subjects of Forreign Realms as heretofore,</hi> they prohibited the Exportation of this Commodity: the like care and good meaning did alſo appear in them (however perverſe and ſilly peo<g ref="char:EOLhyphen"/>ple have hitherto rendred it uſeleſs) when <hi>for the encouragement of our woollen Manufacture, and prevention of the Exportation of our monies for the buying and importing of Linnen</hi> (the very words of the Preamble) they enacted, <hi>that none ſhould be buried in other than woollen:</hi> Now he that ſhould Vote for the Exportation of wooll and cenſure the Act for burying in woollen, muſt invert every period of theſe moſt excellent Preambles, and ſay, <hi>That for the better employing the Subjects of Forreign Realms, and to the in<g ref="char:EOLhyphen"/>tent the beſt uſe and benefit of the principal Native Commodities of this</hi> declining <hi>Kingdom may come unto the Subjects of Forreign Countries, as one, two, or</hi> 300 <hi>years ago it did, and be no longer continued unto the people of this Realm, as has been us'd by the ſpace of</hi> 60 <hi>years laſt paſt; and to the intent that the woollen Ma<g ref="char:EOLhyphen"/>nufacture may be diſcouraged, and the Exportation of Monies en<g ref="char:EOLhyphen"/>creas'd to buy and import Linnen from our truſty Neighbours,</hi> eſpecially the French, <hi>let wooll be freely exported, and none buri<g ref="char:EOLhyphen"/>ed in woollen, except ſuch as dye of cold diſeaſes.</hi>
+               </p>
+            </div>
+            <div n="3" type="answer">
+               <head>To the third Reaſon for repealing our Laws; <q>
+                     <hi>That our Neigh<g ref="char:EOLhyphen"/>bours with the help of our people get great quantities of our wooll
+<pb n="6" facs="tcp:49075:6"/>daily from us notwithſtanding thoſe Laws to the contrary.</hi>
+                  </q> 
+                  <hi>I Anſwer.</hi>
+               </head>
+               <p n="1">1. That ſuch practices are ſhrewd evidences of what eſteem that commodity is among them, and that what is thus purloyn'd coſt the Receiver dear, by reaſon of ſecrecy, ſubtil contrivan<g ref="char:EOLhyphen"/>ces, &amp;c. as hath been already hinted, (for who will venture hanging for nothing?) which upon repealing thoſe Laws will come freely to them without any ſuch incumbrances, and conſequent<g ref="char:EOLhyphen"/>ly cheaper, whereby they may be enabled to conteſt with us in this important Manufacture on even terms.</p>
+               <p n="2">2. Our Neighbours by theſe undue practices either have or have not ſufficient of our wooll already; if they have, there will be no need of repealing thoſe Laws, and we may juſtly charge the preſent dullneſs of Forreign Markets for our Drape<g ref="char:EOLhyphen"/>ry upon the export of our wooll by theſe vile practices; which muſt needs grow worſe when thoſe Laws are repealed; but if they have not enough by reaſon of the prohibition, let us thank the Laws for it; and yet obſerve that 'tis a pregnant argument that by our wooll, thus unduly obtain'd, they manage a conſi<g ref="char:EOLhyphen"/>derable Manufacture, for it ſeems <hi>they get great quanties from us;</hi> and that if they had more they would enlarge their com<g ref="char:EOLhyphen"/>merce, which muſt neceſſarily undermine and leſſen ours.</p>
+               <p n="3">3. It is better particular perſons do acts hurtſul to the Public againſt Law, than for want of a Law, becauſe this latter would reflect on the wiſdom of the Government.</p>
+               <p n="4">4. Should we repeal the Laws againſt the Exportation of wooll, becauſe againſt Law wooll is Exported we ſhould tran<g ref="char:EOLhyphen"/>ſcribe their wiſdom that would repeal Laws againſt felony, be<g ref="char:EOLhyphen"/>cauſe ill men contrary to Law commit Robberies; or imitate thoſe who will not ſhut their doors becauſe Thieves ſometime break in at the windows.</p>
+            </div>
+            <div n="4" type="answer">
+               <head>
+                  <hi>To the fourth reaſon,</hi> 
+                  <q>
+                     <hi>That 'tis to ſmall purpoſe to keep our wooll at home, for that Ireland ſupplies our Neighbours therewith,</hi> &amp;c. </q>
+                  <hi>I Anſwer.</hi>
+               </head>
+               <p n="1">1. If this be true, it is to ſmall purpoſe to permit its Exportation in hopes to put a better value on it, which is the moſt avowed reaſon for the repeal: for if our Neighbours be plentifully ſupplyed therewith from <hi>Ireland,</hi> where 'tis much
+<pb n="7" facs="tcp:49075:6"/>cheaper at preſent then with us, (and probably ever will) there is ſmall reaſon to expect better Rates for Ours: for who will give us ſix pence for that pound of wooll which in <hi>Ireland</hi> may be had for four pence? unleſs it may be granted that ours is better than that of <hi>Ireland;</hi> which few of the Adjutators will, for certain Reaſons, be willing to confeſs.</p>
+               <p n="2">2. If the <hi>Iriſh</hi> wooll enables the Forreigner to carry on that Manuſacture to a degree hurtful to us, we have ſmall reaſon to aſſiſt them further therein by aſſording them ours, ſeeing they enjoy advantages too many already; leaſt we immitate thoſe good men, who break the pot becauſe their wives break the pitcher; ruine our ſelves becauſe <hi>Ireland</hi> hurts us.</p>
+            </div>
+            <div n="5" type="answer">
+               <head>To the laſt reaſon, <q>that the prohibition of wooll is a new practice unknown to us till within this twenty years, and yet before that time both <hi>Wooll</hi> and <hi>Drapery</hi> yielded the beſt Rates, for above 60 years laſt paſt.</q> 
+                  <hi>I Anſwer.</hi>
+               </head>
+               <p n="1">1. That 'tis very true, but it does not follow that the prohibi<g ref="char:EOLhyphen"/>tion was therefore unneceſſary, or that the ſame brought a preju<g ref="char:EOLhyphen"/>dice upon either; but that other reaſons already given, muſt be aſſigned for the fall and meanneſs of the Rates of thoſe Commo<g ref="char:EOLhyphen"/>dities; it being no waies queſtionable, but that the exportation of our Drapery had long ſince expired, had not the prohibition of wooll interpos'd.</p>
+               <p n="2">2. Statutes are provided to anſwer the preſent emergencie and reaſon of Affaires, and adapted to the occaſion and Intereſt of the Age wherein they are made, ſo that what was judg'd unneceſſary in former Ages, may be of ſuperlative uſe in this; and if the reaſon thereof again ceaſe, may be as inſignificant in the next.</p>
+               <p n="3">3. We had no need of ſuch reſtraining Laws long before they were enacted; for till the peace of <hi>Munſter, England</hi> alone enjoy'd almoſt the whole Manufacture of <hi>Europe:</hi> But <hi>France</hi> (who then alſo receiv'd woollen Drapery from us) agitated ſince that peace by a moſt ſagacious Counſel (who underſtands the advantages of Manufactures and Navigation) and fild with an active and enterprizing people, 'has unhappily added that Manufacture to the many other advantages they enjoy for commerce, above moſt
+<pb n="8" facs="tcp:49075:7"/>other Nations; and hath all things propitious for the managing thereof except fine wooll, ſuch as ours is, to mix with their own: Muſt our Anceſtours proceedings then who were go<g ref="char:EOLhyphen"/>vern'd by reaſons farre different from ours, be preſidents to us? or is it not rather high time to employ our utmoſt skill to retain ſo neceſſary a Commodity at home.</p>
+            </div>
+            <div type="answer">
+               <head>
+                  <q>
+                     <hi>I have lately met with one Merchant of no ſmall pretences to the intrigues of Trade, who, although he will not allow that the Rates of wooll may encreaſe upon the repeal of our Lawes, (which is the prime reaſon alleadged for repeal of the prohibition) yet affirms that if the prohibition were remov'd and due Impoſts charg'd upon wooll, it might thereby, better than by the prohibition, be either retain'd at home, or rendred ſo chargeable to our Neighbours that we might have ſufficient advantages over them in that Manufacture.</hi>
+                  </q>
+To which, <hi>I anſwer.</hi>
+               </head>
+               <p n="1">1. That he which affirms all this, muſt maintain that either his Majeſties Officers of His Cuſtoms will be more induſtrious to collect the Duties, and Impoſts ſo to be charg'd on this Commodi<g ref="char:EOLhyphen"/>ty, than they were to make Seizures of it by vertue of the pro<g ref="char:EOLhyphen"/>hibition, tho they had a Moyety of the Seizure, or that the Exporters will be more conſciencious in paying His Majeſties Impoſts, than they were in obeying His Laws which prohi<g ref="char:EOLhyphen"/>bited the Exportation, tho they ventured their necks into the bargain, or that the Forreigner may be leſs deſirous of it after the repeal than before.</p>
+               <p n="2">2. The Impoſts muſt be either much, or little; if much, it may be worth venturing to ſave the payment; as is too frequently practic'd in payments of the like Nature; but if they be little; the payment of them will be eaſily ballanc'd by the advantages our Neighbours have over us in cheap dyet, labour, &amp;c. as has been already ſhewed.</p>
+            </div>
+            <div type="answer">
+               <head>If, to what has been ſaid, it be reply'd that it is better export wooll, then neither wooll nor Drapery. I Rejoyn.</head>
+               <p n="1">1. That it is ſo, were it true that we exported no Drapery, and remain'd without hopes of ever ſharing again in Forreign Mar<g ref="char:EOLhyphen"/>kets: but thanks be to God matters are not yet arriv'd to ſo ill terms, and probably never will, unleſs ſome aſpiring Neighbour (who may deſign to engroſs all Traffic) beat us out of the Medi<g ref="char:EOLhyphen"/>terranean
+<pb n="9" facs="tcp:49075:7"/>Sea, or that we let out our wooll by a Law.</p>
+               <p n="2">2. If we do yet more effectually provide to keep our wooll at home, 'tis a thouſand to one but our Drapery will off: but if once we export our wooll by a Law (charge it with what Impoſt, and confine it to what Ports and ſeaſons you pleaſe, as ſome vain<g ref="char:EOLhyphen"/>ly or ſlily propoſe) we may bid an Eternal adieu to the Exportation of our woollen Manufacture.</p>
+               <p>Who will buy our wooll, ſeeing we ſlight it our ſelves? will the <hi>French?</hi> to what end? to employ their people, and carry on a Manufacture as univerſal as their other deſigns, have they not of late charg'd our Drapery with heavy impoſitions, meerly to diſcourage its coming among them, the better to employ their own people? and muſt we then return the civility with ſuch ad<g ref="char:EOLhyphen"/>vantage to them?</p>
+               <p n="4">4. And laſtly, to export our wooll becauſe at preſent we want vent for our Drapery, is for ever to confirm in that want; and is a choyce like pulling down my houſe for fear it may be burnt, or like hanging my ſelf leaſt any other kill me.</p>
+            </div>
+            <div type="answer">
+               <head>If I be ask'd what we ſhall do with our wooll ſeeing its Expor<g ref="char:EOLhyphen"/>tation is of ſuch dreadfull conſequence, and our Drapery ſo neg<g ref="char:EOLhyphen"/>lected at home, I Anſwer.</head>
+               <p n="1">1. That tho we cannot impoſe our Drapery on our Neigh<g ref="char:EOLhyphen"/>bours, yet we might eaſily nick ſome of them in their Wines, Brandies, and Bawbles, which are as neceſſary for them to vent as Drapery is for us, and are as unprofitable for us to receive. And ſurely we might alſo provide yet better to keep our wooll at home.</p>
+               <p n="2">2. And Secondly, ſeeing the generality of Mankind purſues rather vain examples than rules of Reaſon, and wants judgment to diſcern things hurtful to the Public Authority, hath frequent<g ref="char:EOLhyphen"/>ly preſcrib'd the Subject in point of Clothes: and he that conſi<g ref="char:EOLhyphen"/>ders the habit of our people at this day, might ſuppoſe ſilk, and not wooll the native commodity of this Kingdom.</p>
+            </div>
+            <div type="proposal">
+               <head>I therefore humbly propoſe.</head>
+               <p n="1">1. That the Laws againſt the Exportation of wooll be conſult<g ref="char:EOLhyphen"/>ed, and if upon enquiry they appear too ſhort to reach all the tricks and contrivances of the enormous Exportors, to provide yet further remedies againſt them: propoſing eſpecially large
+<pb n="10" facs="tcp:49075:8"/>rewards and Characters of eſteem to thoſe who ſhall, at any time, diſcover the Managers of ſo ruinous a Commerce; the puniſhing of whoſe Eſtate (if they have any) and not the per<g ref="char:EOLhyphen"/>ſons, being poſſibly the moſt effectual means to animate informati<g ref="char:EOLhyphen"/>ons; becauſe moſt men would rather make dicoveries, in this caſe, for gain to themſelves, than onely bring corporal puniſh<g ref="char:EOLhyphen"/>ment on others; and where the Criminals have no Eſtate, and are not apprehended to receive due puniſhment, the Diviſion, or Hundred, as in caſes of Robberies, ought to be fin'd to pay the Informer; it being certain, the Neighbourhood knows the Cri<g ref="char:EOLhyphen"/>minals and their Intrigues, and might without much difficulty either apprehend or drive them out of the Country: and 'tis worth enquiry how ſarre ſome of thoſe very perſons commiſſio<g ref="char:EOLhyphen"/>nated to prevent theſe practices, are themſelves guilty of ſoment<g ref="char:EOLhyphen"/>ing them, as ſome do report: and then beſides, the wayes and methods to purſue theſe offendors and recover the Fines, ought to be as plain, ſhort, and eaſie, as the wiſdom of a Counſel can contrive: and where the diſcoveries are made by any one Em<g ref="char:EOLhyphen"/>ployed in theſe practices, Indemnity and Rewards ought to be provided-for him alſo; and that ſuch a Diſcoverer, or other ſingle witneſs (tho he hath profit thereby) ought to be ſufficient evi<g ref="char:EOLhyphen"/>dence, becauſe it is a work of Darkneſs, and more diſtructive than Robbery; it being better for us to run the harzard, that one man in ſeven years be injured by the perjury of an Informer, than that ſo many vile Offenders eſcape for want of witneſs, who have no benefit by the Seizure and evidence.</p>
+               <p n="2">2. That a Law might paſs that every man uſing any Manual Occupation, Trade or Miſtery, Inholders, Marriners and Ma<g ref="char:EOLhyphen"/>ſters of Ships, and every perſon of like quality, not having an Eſtate, Real and Perſonal to ſuch a value, and the wife, widow and children of every ſuch, and the Child of every perſon not ha<g ref="char:EOLhyphen"/>ving an Eſtate Real and Perſonal, to be limited by the Statute, being under eighteen years of Age, (the Eſtates to be proved up<g ref="char:EOLhyphen"/>on Oath) who ſhall wear any manner of Garment or Stockings made of other then wool, flax, hemp, Cotten or Callico, ſhall for every offence forfeit to the Poor of the Pariſh where the offence ſhall be committed, valuable Sum; and every Servant (other then the Domeſtics of ſome Peers of the Realm) offending in the premi<g ref="char:EOLhyphen"/>ſes, ſhall forfeit the like Sum: unleſs it appear upon Oath that the
+<pb n="11" facs="tcp:49075:8"/>Garment <hi>&amp;c,</hi> ſo worn, was either made before the Statute, or ſince given by his or her Maſter or Miſtreſs: all which Forfei<g ref="char:EOLhyphen"/>tures upon the Oath of one credible witneſs, to be levied by war<g ref="char:EOLhyphen"/>rant from two Juſtices of the peace upon the offender, their hus<g ref="char:EOLhyphen"/>bands, Parents &amp;c. and for want of ſuch Diſtreſs, Impriſon<g ref="char:EOLhyphen"/>ment without Bayle, &amp;c. And for the more vigorous execution of ſo neceſſary a work, the two next Juſtices under ſome pe<g ref="char:EOLhyphen"/>nalty yearly to nominate and ſwear two or more honeſt Inhabi<g ref="char:EOLhyphen"/>tants of every Pariſh to execute the ſaid Act; who for their greater encouragement may receive ſome part of the Fine. And if any one pretend this Law may prejudice ſome thouſands of <hi>Silkweavers,</hi> ſome <hi>Mercers,</hi> &amp;c. I more truly affirm the ſame will be abundantly recompenced by raiſing the Rates of Wooll, which will refreſh our Rents by providing Employments for four times that number of <hi>Breakers, Kembers, Carders, Spin<g ref="char:EOLhyphen"/>ners, Weavers, Fullers, Shearmen, Clothiers, Drapers, &amp;c,</hi> and by reducing an extravagant People to a decent and modeſt Appa<g ref="char:EOLhyphen"/>rel: And if His Majeſty, by paſſing ſuch a Bill, may poſſibly looſe ſomething at preſent in His Cuſtoms, it will be happily ſupply'd by the glory redounding thereby to His Government, by the hearty thanks and prayers of His intelligent Subjects, for ſo gracious an Act, and by continuing us in a condition to make good and ſuſtain ſo ſplendid a Revenue; which will be impoſſi<g ref="char:EOLhyphen"/>ble to do, if we ſtill forſake and diſuſe our Growths and Manu<g ref="char:EOLhyphen"/>factures, and continue to conſume ſo much of the Ferreign.</p>
+               <p n="3">3. And Laſtly, whereas the late Statute for burial in VVool<g ref="char:EOLhyphen"/>len hath not wrought the intended good effect, for want of Of<g ref="char:EOLhyphen"/>ficers to inſpect its execution, I humbly propoſe that ſome one honeſt Inhabitant of every Pariſh be, by the two next Juſtices of the Peace, under ſome penalty, yearly nominated and ſworn to in<g ref="char:EOLhyphen"/>ſpect the Corps the Morning before interrment, and certifie the Miniſter under his hand that the defunct is wrapt according to the Statute; for which Certificate the ſearcher ſhall from the Executor, &amp;c. (in caſe the defunct paid ſcot and lot) receive ſome ſmall ſee: and without which Certificate, the Miniſter un<g ref="char:EOLhyphen"/>der ſome penalty, may not inhume the Corps: a penalty pay<g ref="char:EOLhyphen"/>able to the poor of the Pariſh, and teniably by warrant from two Juſtices of the Peace, being alſo laid on thoſe who ſhall not com<g ref="char:EOLhyphen"/>ply with the ſaid Statute, or ſhall diſturb the Officer in doing his duty.</p>
+               <pb n="12" facs="tcp:49075:9"/>
+               <p>A Law on each of theſe Subjects, with right plac'd penalties, muſt neceſſarily quicken the conſumption of our Drapery at home, enlarge our Markets abroad, and put a better value on our wooll, than ſpare it on ſuch deſtructive &amp; ruinous terms. And if my Arguments have been too frivolous to prevail on the Judgement of any man, who yet may remain diſſatisfied in the point, I heartily deſire him to believe, the ſame proceeds purely from the incapacity of the Undertaker; being confident that tho my ſelf may not have been ſo lucky to draw out ſuch conquering Argu<g ref="char:EOLhyphen"/>ments as the ſubject may afford, yet arguments there are, invin<g ref="char:EOLhyphen"/>cible in the caſe; —and that we muſt by all the Mothods imagi<g ref="char:EOLhyphen"/>nable, <hi>promote the Manufacture and wear of our own woollen, moderate the conſumption of Wines, Silks and Camlets, prohibit Brandy, Coffee, and other idle and new fangled liquors, which hindring the expence of our own wholeſome drinks, ſubdue our Rents, prevent the importatation of a thouſand trifles, which draw our Treaſure from us, obviate Forreign Deſigns, and keep our Wooll at home, or periſh.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49075:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
